@@ -1,5 +1,4 @@
 from transformers import MBartForConditionalGeneration, MBart50TokenizerFast
-import numpy as np
 article_hi = "संयुक्त राष्ट्र के प्रमुख का कहना है कि सीरिया में कोई सैन्य समाधान नहीं है"
 article_ar = "الأمين العام للأمم المتحدة يقول إنه لا يوجد حل عسكري في سوريا."
 
