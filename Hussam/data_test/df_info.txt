@@ -1,0 +1,27 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 852 entries, 0 to 851
+Data columns (total 20 columns):
+ #   Column                Non-Null Count  Dtype  
+---  ------                --------------  -----  
+ 0   Year                  852 non-null    int64  
+ 1   Datetime              852 non-null    object 
+ 2   Stage                 852 non-null    object 
+ 3   Stadium               852 non-null    object 
+ 4   City                  852 non-null    object 
+ 5   Home Team Name        852 non-null    object 
+ 6   Home Team Goals       852 non-null    int64  
+ 7   Away Team Goals       852 non-null    int64  
+ 8   Away Team Name        852 non-null    object 
+ 9   Win conditions        852 non-null    object 
+ 10  Attendance            850 non-null    float64
+ 11  Half-time Home Goals  852 non-null    int64  
+ 12  Half-time Away Goals  852 non-null    int64  
+ 13  Referee               852 non-null    object 
+ 14  Assistant 1           852 non-null    object 
+ 15  Assistant 2           852 non-null    object 
+ 16  RoundID               852 non-null    int64  
+ 17  MatchID               852 non-null    int64  
+ 18  Home Team Initials    852 non-null    object 
+ 19  Away Team Initials    852 non-null    object 
+dtypes: float64(1), int64(7), object(12)
+memory usage: 133.3+ KB
