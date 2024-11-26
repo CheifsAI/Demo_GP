@@ -1,0 +1,11 @@
+langchain
+huggingface_hub
+python_dotenv
+langchain_community
+streamlit
+tiktoken
+pypdf
+pandas 
+numpy
+pinecone-client
+unstructured
